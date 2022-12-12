@@ -2,7 +2,8 @@
 https://github.com/alejandru00/Ajedrez.git alejandru00
 
 Este repositorio se divide en:
-    -"Datos", donde está el tablero y las diferentes piezas de juego.
+
+	-"Datos", donde está el tablero y las diferentes piezas de juego.
     -"Funciones", donde se encuentran las funciones de:
         ->Printear el tablero.
         ->Movimiento de las pizas (+ guardar el juego en un .txt).

@@ -39,7 +39,7 @@ def mover_pieza():
     columna_destino = int()
     
     tablero[fila_origen][fila_destino] = tablero[columna_origen][columna_destino]
-    tablero[columna_origen][columna_destino] = ' '
+    tablero[fila_destino][columna_destino] = ' '
     print(imprimir_tablero(tablero))
     
 
